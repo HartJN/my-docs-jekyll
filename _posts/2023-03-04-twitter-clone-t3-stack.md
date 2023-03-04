@@ -1,6 +1,6 @@
 ---
 title: Twitter Clone T3 Stack
-date: 2023-03-04 15:18:00
+date: 2023-03-03 15:18:00
 categories:
   - full-stack
   - typescript
@@ -19,7 +19,7 @@ tags:
 
 This web application is built using Next.js, Tailwind CSS, NextAuth, Prisma, Create T3 App, and Day.js. It provides the functionality to create tweets, like tweets, and use infinite scroll to navigate through tweets.
 
-##
+\##
 
 ## Features:
 
@@ -29,7 +29,7 @@ This web application is built using Next.js, Tailwind CSS, NextAuth, Prisma, Cre
 * Infinite scroll
 * User Profile Pages
 
-##
+\##
 
 ## What I Learnt:
 
@@ -43,7 +43,7 @@ During the development of this application, I learned several new skills and tec
 * Formatting dates with Day.js: I used Day.js to format dates in a user-friendly way.
 * useMutation, useQuery & useInfiniteQuery: I learned how to use the Tanstack React Query library's useMutation, useQuery, and useInfiniteQuery hooks to handle data fetching and updates.
 
-##
+\##
 
 ## Installation:
 
@@ -53,18 +53,18 @@ To clone and install the application, follow these steps:
 2. Navigate to the project directory:cd twitter-clone-t3.
 3. Install dependencies:yarn.
 
-##
+\##
 
 ## Database Setup:
 
-###
+\###
 
 ### To set up the database, follow these steps:
 
 1. Run Prisma migrations:yarn prisma db push.
 2. Seed the database:yarn prisma db seed.
 
-###
+\###
 
 ### Running Prisma Studio:
 
@@ -72,7 +72,7 @@ To access Prisma Studio, run the following command:
 
 \`npx prisma studio\`.
 
-##
+\##
 
 ## Usage:
 
@@ -80,7 +80,7 @@ To start the application, run the following command: yarn dev.
 
 Open [http://localhost:3000](http://localhost:3000){: rel="nofollow"} to view the application in the browser.
 
-###
+\###
 
 ### Create T3 App
 
